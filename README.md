@@ -54,7 +54,7 @@ If you're interested in the dataset for **academic or research collaboration pur
 
 ## 📁 Repository Contents
 
-- `deep learning methods.ipynb`: The main notebook containing preprocessing, model training, and evaluation.
+- `rul-prediciton.ipynb`: The main notebook containing preprocessing, model training, and evaluation.
 - `README.md`: Overview and documentation of the project.
 
 
